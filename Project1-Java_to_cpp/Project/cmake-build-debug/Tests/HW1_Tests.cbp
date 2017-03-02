@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW1_Tests"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Tests\;CMake Files\Exercises\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuadraticRootToolTester">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/QuadraticRootToolTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 QuadraticRootToolTester"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuadraticRootToolTester/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/QuadraticRootToolTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 QuadraticRootToolTester/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GradeCalculatorTester">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/GradeCalculatorTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 GradeCalculatorTester"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GradeCalculatorTester/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/GradeCalculatorTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 GradeCalculatorTester/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CreditCardValidatorTester">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/CreditCardValidatorTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 CreditCardValidatorTester"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CreditCardValidatorTester/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/CreditCardValidatorTester.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 CreditCardValidatorTester/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/CreditCardValidatorTester.cpp">
+			<Option target="CreditCardValidatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/GradeCalculatorTester.cpp">
+			<Option target="GradeCalculatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/ProgramParser.cpp">
+			<Option target="QuadraticRootToolTester"/>
+			<Option target="GradeCalculatorTester"/>
+			<Option target="CreditCardValidatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/ProgramParser.h">
+			<Option target="QuadraticRootToolTester"/>
+			<Option target="GradeCalculatorTester"/>
+			<Option target="CreditCardValidatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/QuadraticRootToolTester.cpp">
+			<Option target="QuadraticRootToolTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/exec-stream.cpp">
+			<Option target="QuadraticRootToolTester"/>
+			<Option target="GradeCalculatorTester"/>
+			<Option target="CreditCardValidatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/exec-stream.h">
+			<Option target="QuadraticRootToolTester"/>
+			<Option target="GradeCalculatorTester"/>
+			<Option target="CreditCardValidatorTester"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercises\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercises\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

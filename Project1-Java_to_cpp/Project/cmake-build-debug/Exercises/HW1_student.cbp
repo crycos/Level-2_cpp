@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW1_student"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Tests\;CMake Files\Exercises\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CreditCardValidator">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/CreditCardValidator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 CreditCardValidator"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CreditCardValidator/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/CreditCardValidator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 CreditCardValidator/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GradeCalculator">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/GradeCalculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 GradeCalculator"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GradeCalculator/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/GradeCalculator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 GradeCalculator/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuadraticRootTool">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/QuadraticRootTool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 QuadraticRootTool"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuadraticRootTool/fast">
+				<Option output="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/QuadraticRootTool.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 QuadraticRootTool/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/cmake-build-debug/Exercises/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/CreditCardValidator.cpp">
+			<Option target="CreditCardValidator"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/GradeCalculator.cpp">
+			<Option target="GradeCalculator"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/QuadraticRootTool.cpp">
+			<Option target="QuadraticRootTool"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tests\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercises\"/>
+		</Unit>
+		<Unit filename="C:/Users/terminator/Documents/COP3503/Projects/HW1/Project/Exercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Exercises\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
